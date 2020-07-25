@@ -9,17 +9,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/Especialista-Spring-REST-Algaworks?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/desafio-03-conceitos-do-reactjs?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/Especialista-Spring-REST-Algaworks">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/desafio-03-conceitos-do-reactjs">
   
-  <a href="https://github.com/georgealan/Especialista-Spring-REST-Algaworks/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/Especialista-Spring-REST-Algaworks">
+  <a href="https://github.com/georgealan/desafio-03-conceitos-do-reactjs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/desafio-03-conceitos-do-reactjs">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/georgealan/Especialista-Spring-REST-Algaworks/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/Especialista-Spring-REST-Algaworks?style=social">
+   <a href="https://github.com/georgealan/desafio-03-conceitos-do-reactjs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/desafio-03-conceitos-do-reactjs?style=social">
   </a>
 
   <a href="https://kodyweb.com.br">
@@ -103,10 +103,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:georgealan/Especialista-Spring-REST-Algaworks.git
+$ git clone git@github.com:georgealan/desafio-03-conceitos-do-reactjs.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Especialista-Spring-REST-Algaworks
+$ cd desafio-03-conceitos-do-reactjs
 
 # Vá para a pasta server
 $ cd server
@@ -136,7 +136,7 @@ As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 -   **[React Leaflet](https://react-leaflet.js.org/)**
 -   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> Veja o arquivo  [package.json](https://github.com/georgealan/Especialista-Spring-REST-Algaworks/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/georgealan/desafio-03-conceitos-do-reactjs/blob/master/web/package.json)
 
 #### [](https://github.com/georgealan/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -150,7 +150,7 @@ As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 -   **[Celebrate](https://github.com/arb/celebrate)**
 -   **[Joi](https://github.com/hapijs/joi)**
 
-> Veja o arquivo  [package.json](https://github.com/georgealan/Especialista-Spring-REST-Algaworks/blob/master/server/package.json)
+> Veja o arquivo  [package.json](https://github.com/georgealan/desafio-03-conceitos-do-reactjs/blob/master/server/package.json)
 
 #### [](https://github.com/georgealan/Ecoleta#mobile-react-native--typescript)**Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -164,7 +164,7 @@ As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 -   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> Veja o arquivo  [package.json](https://github.com/georgealan/Especialista-Spring-REST-Algaworks/blob/master/mobile/package.json)
+> Veja o arquivo  [package.json](https://github.com/georgealan/desafio-03-conceitos-do-reactjs/blob/master/mobile/package.json)
 
 #### [](https://github.com/georgealan/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
