@@ -63,8 +63,8 @@ Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketsea
 ## ⚙️ Funcionalidades
 
 - [x] Pode manipular repositórios em uma lista com:
-  - [x] Adicionar POST
-  - [x] Deletar DELETE
+  - [x] POST
+  - [x] DELETE
 
 ---
 
