@@ -72,7 +72,7 @@ Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketsea
 
 Este projeto é divido em três partes:
 1. Backend:
-Vá até este <a href="https://github.com/georgealan/desafio-02-conceitos-do-nodejs">repositório</a> e siga as instruções
+Vá até este <a href="https://github.com/georgealan/desafio-02-conceitos-do-nodejs" target="_blank">repositório</a> e siga as instruções
 para clonar e utilizar o projeto backend que faz parte deste desafio.
 2. Frontend (este projeto aqui)
 
