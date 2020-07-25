@@ -46,8 +46,6 @@ Tabela de conteúdos
      * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
    * [Tecnologias](#-tecnologias)
      * [WebSite](#user-content-website--react----typescript)
-     * [Server](#user-content-server--nodejs----typescript)
-     * [Mobile](#user-content-mobile--react-native----typescript)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -55,39 +53,28 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+Simples aplicação React para testar a integração do frontend com o backent utilizando o Axios, e como demonstração
+utilizando os verbos: POST, DELETE, para manipular os dados da lista que é capturada na aplicação backend em NodeJS.
 
-
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketseat](https://rocketseat.com.br/gostack).
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
-
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+- [x] Pode manipular repositórios em uma lista com:
+  - [x] Adicionar POST
+  - [x] Deletar DELETE
 
 ---
 
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
+1. Backend:
+Vá até este <a href="https://github.com/georgealan/desafio-02-conceitos-do-nodejs">repositório</a> e siga as instruções
+para clonar e utilizar o projeto backend que faz parte deste desafio.
+2. Frontend (este projeto aqui)
 
 💡O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
@@ -128,14 +115,15 @@ As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[React Dom](https://www.npmjs.com/package/react-dom)**
+-   **[React Scripts](https://www.npmjs.com/package/react-scripts)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[Leaflet](https://react-leaflet.js.org/en/)**
--   **[React Leaflet](https://react-leaflet.js.org/)**
--   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
+-   **[Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)**
+-   **[Jest Dom](https://github.com/testing-library/jest-dom)**
+-   **[@babel](https://babeljs.io/docs/en/babel-preset-react)**
+-   **[Webpack](https://webpack.js.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/georgealan/desafio-03-conceitos-do-reactjs/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/georgealan/desafio-03-conceitos-do-reactjs/blob/master/package.json)
 
 ---
 
