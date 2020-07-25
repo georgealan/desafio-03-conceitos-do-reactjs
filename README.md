@@ -88,9 +88,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 Este projeto é divido em três partes:
 1. Backend (pasta server) 
 2. Frontend (pasta web)
-3. Mobile (pasta mobile)
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+💡O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
@@ -108,14 +107,14 @@ $ git clone git@github.com:georgealan/desafio-03-conceitos-do-reactjs.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafio-03-conceitos-do-reactjs
 
-# Vá para a pasta server
-$ cd server
+# Execute o comando abaixo para instalar todas as dependências
+$ yarn
 
-# Instale as dependências
-$ npm install
+# Para utilizar a aplicação rode o comando
+$ yarn start
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação em modo de teste
+$ yarn test
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
